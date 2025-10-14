@@ -17,8 +17,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Outreach"
-    url: /teaching/    
+  - title: "Outside of Work"
+    url: /_pages/non-menu-page.md    
     
   #- title: "Portfolio"
   #  url: /portfolio/
