@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Rowen Isobel Glusman"
-  pronouns         : "she/they"  
+  pronouns         : #"she/they"  
   bio              : "Astronomer, astrophysicist, and cat enthusiast."
   location         : "Amsterdam, NL"
   employer         : "Universiteit van Amsterdam"
