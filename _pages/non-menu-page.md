@@ -3,8 +3,8 @@ permalink: /non-menu-page/
 title: "Who am I outside of work?"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/outside_work/"
+  - "/outside_work.html"
 ---
 
 I have several hobbies which I pursue in my somewhat limited downtime. Chances are, we share at least one!
