@@ -9,6 +9,9 @@ redirect_from:
 
 Hi—I'm **Rowen Glusman**, an MSc student in **Astronomy & Astrophysics (UvA)** with hands-on experience in **exoplanet occurrence rates, transit modeling, and data-intensive inference**. I love to tackle data analysis problems in stellar and planetary astrophysics: building robust pipelines, extracting interesting signals from noisy light curves, and turning messy datasets into publishable results.
 
+## Why do I do astronomy research?
+I do astronomy because I’m a problem-solver at heart, and drawn to the unknown. Academic research gives me the rare freedom to chase my own most interesting questions about the universe and uncover new ones along the way. As a kid, I worried that growing up meant running out of questions; I work every day to make sure that never happens. I also love teaching and learning from everyone I meet. Every new person I meet, language I learn, or country I live in offers a new perspective, and I welcome each one with enthusiasm and curiosity. My most rewarding moments in and beyond academia have come from introducing myself to strangers, finding common ground, and building on shared interests.
+
 I’m actively looking for **PhD opportunities** and **research collaborations**. Let's chat!
 
 ---
