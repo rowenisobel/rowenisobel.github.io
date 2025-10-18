@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /outside-work/
 title: "Who am I outside of work?"
 author_profile: true
 redirect_from: 
